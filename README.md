@@ -7,7 +7,7 @@
 #pkg install python2
 #pkg install requests 
 #pkg install mechanize 
-#git clone 
+#git clone https://github.com/James404-cyber/Token1.git
 #cd Token1
 #python2 Token.py
 User:James
